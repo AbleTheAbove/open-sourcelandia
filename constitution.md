@@ -6,23 +6,20 @@
 
 ## Section A. NAME
 
-    The official name for this organization is the ________________________.
-    This organization will use the name or its acronym, XXXX, in all publicity materials and correspondence.
+    The official name for this organization is the Open Sourcelandia.
+    This organization will use the name or its acronym, OSL, in all publicity materials and correspondence.
 
 ## Section B. PURPOSE
 
-    The purpose of this organization is to _________________________________________________________________.
-    All activities of this organization must be directed toward this purpose.
+    The purpose of this organization is to provide an example for a completely open government, as well as when and how things should be kept secret and when they should be declassified. All activities of this organization must be directed toward this purpose.
 
 # ARTICLE II. MEMBERSHIP
 
 ## Section A. REQUIREMENTS
 
-    All currently enrolled students, both undergraduate and graduate, and UCI staff, faculty, alumni, and alumnae are eligible to be voting members.
-    All members who are not currently enrolled UCI students or UCI staff, faculty, alumni, and alumnae are eligible to be non-voting members.
+    All current citizens are eligible to be voting members of Open Sourcelandia.
     All members are required to demonstrate support for the purpose of this organization.
     Membership decisions will not discriminate on the basis of race, color, national origin, religion, sex, gender identity, pregnancy, disability, age, medical condition (cancer-related), ancestry, marital status, citizenship, sexual orientation, or status as a Vietnam-era veteran or special disabled veteran.
-    All members are required to pay a $XXX annual membership fee prior to taking part in any organization activity.
 
 ## Section B. RIGHTS
 
