@@ -1,7 +1,3 @@
-
-# Side note; copy paste @AbleTheAbove will be going through and filling it out
-
-
 # ARTICLE I. NAME AND PURPOSE
 
 ## Section A. NAME
